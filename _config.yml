@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nikhil Sarda"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Software Engineer at Google working on the intersection of AI and systems."
   location         : "San Francisco, CA"
   employer         : Google
   googlescholar    : "https://scholar.google.com/citations?user=8StYKTQAAAAJ&hl=en"
@@ -95,14 +95,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "sarda-nikhil"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "http://linkedin.com/in/sarda"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
